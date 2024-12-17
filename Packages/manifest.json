@@ -1,6 +1,17 @@
 {
   "dependencies": {
-    "com.unity.package-manager-ui": "2.0.2",
-    "com.unity.modules.ui": "1.0.0"
-  }
+    "com.unity.inputsystem": "1.11.2",
+    "com.unity.render-pipelines.universal": "17.0.3",
+    "jp.keijiro.klak.motion": "1.1.0",
+    "com.unity.modules.uielements": "1.0.0"
+  },
+  "scopedRegistries": [
+    {
+      "name": "Keijiro",
+      "url": "https://registry.npmjs.com",
+      "scopes": [
+        "jp.keijiro"
+      ]
+    }
+  ]
 }
